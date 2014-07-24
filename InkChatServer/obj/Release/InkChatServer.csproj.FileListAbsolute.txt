@@ -1,0 +1,15 @@
+c:\users\tracywh\documents\visual studio 2013\Projects\InkChatServer\InkChatServer\bin\Release\InkChatServer.exe.config
+c:\users\tracywh\documents\visual studio 2013\Projects\InkChatServer\InkChatServer\bin\Release\InkChatServer.exe
+c:\users\tracywh\documents\visual studio 2013\Projects\InkChatServer\InkChatServer\bin\Release\InkChatServer.pdb
+c:\users\tracywh\documents\visual studio 2013\Projects\InkChatServer\InkChatServer\obj\Release\InkChatServer.exe
+c:\users\tracywh\documents\visual studio 2013\Projects\InkChatServer\InkChatServer\obj\Release\InkChatServer.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\obj\Release\InkChatServer.exe
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\obj\Release\InkChatServer.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\bin\Release\InkChatServer.exe
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\bin\Release\InkChatServer.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\obj\Release\InkChatServer.csprojResolveAssemblyReference.cache
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\bin\Release\InkChatServer.exe.config
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\bin\Release\InkChat.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\bin\Release\InkChat.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\obj\Release\InkChat.Properties.Resources.resources
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChatServer\obj\Release\InkChatServer.csproj.GenerateResource.Cache

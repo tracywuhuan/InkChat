@@ -1,0 +1,5 @@
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.dll.config
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.pdb

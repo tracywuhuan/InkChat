@@ -1,0 +1,5 @@
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\obj\Debug\InkChat.csprojResolveAssemblyReference.cache
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\bin\Debug\InkChat.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\bin\Debug\InkChat.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\obj\Debug\InkChat.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\obj\Debug\InkChat.pdb

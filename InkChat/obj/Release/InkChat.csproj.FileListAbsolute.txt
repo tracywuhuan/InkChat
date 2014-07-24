@@ -1,0 +1,8 @@
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\bin\Release\WcfServiceLibrary1.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\WcfServiceLibrary1\obj\Release\WcfServiceLibrary1.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\bin\Release\InkChat.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\bin\Release\InkChat.pdb
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\obj\Release\InkChat.dll
+C:\Users\tracywh\Documents\Visual Studio 2013\Projects\InkChat\InkChat\obj\Release\InkChat.pdb
